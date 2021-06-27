@@ -23,7 +23,7 @@ elif(sayi==0):
     print("Girmiş Oldugunuz sayi sıfırdır.")
 else:
     print("Girmiş Olduğunuz Sayi Pozitiftir.")"""
-
+"""
 #NOT HESAPLAMA SİSTEMİ
 
 note=float(input("NOTUNUZU GİRİN: "))
@@ -45,7 +45,7 @@ elif(note>=50):
 elif(note>40):
     print("DD")
 elif( note>0 and note<=40):
-    print("FF : KALDINIZ!")
+    print("FF : KALDINIZ!")"""
 
 
 
